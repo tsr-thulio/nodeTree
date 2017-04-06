@@ -1,0 +1,23 @@
+{
+  "name": "node-tree",
+  "version": "1.0.0",
+  "description": "Given an representation of a binary tree deserialized as string and a number, creates a binary tree * and return every path in the tree with sum of the nodes that is equals the given number",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsr-thulio/nodeTree.git"
+  },
+  "author": "Thulio Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsr-thulio/nodeTree/issues"
+  },
+  "homepage": "https://github.com/tsr-thulio/nodeTree#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
